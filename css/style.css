@@ -151,8 +151,7 @@
 /* Section/Article */
 
 	section.special, article.special {
-		text-align: left;
-		/*text-align: center;*/
+		text-align: center;
 	}
 
 	header p {
@@ -182,7 +181,8 @@
 	}
 
 	header.major {
-		text-align: center;
+		text-align: left;
+		/*text-align: center;*/
 		margin: 0 0 4em 0;
 	}
 
